@@ -1,0 +1,15 @@
+.containerList{
+    border: 1px solid gray;
+    padding: 10px;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+}
+.button{
+    background-color: burlywood;
+    cursor: pointer;
+    margin-left: 25px;
+    
+}

@@ -1,0 +1,25 @@
+.containerPhonebook{
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.button{
+    background-color: burlywood;
+    margin-left: 110px; 
+    cursor: pointer;
+}
+
+.containerForm{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input{
+    width: 294px;
+    height: 25px;
+}
+
+.label{
+    font-weight: 700;
+}

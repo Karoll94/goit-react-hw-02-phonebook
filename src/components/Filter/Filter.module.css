@@ -1,0 +1,13 @@
+.containerFilter{
+    padding-bottom: 20px;
+}
+
+.label{
+    font-weight: 700;
+    padding-left: 100px;
+}
+
+.input{
+    width: 350px;
+    height: 25px;
+}
